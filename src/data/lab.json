@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ERR-01",
+    "status": "CRITICAL",
+    "timestamp": "2025.10.14_08:44",
+    "description": "MEMORY LEAK DETECTED IN WEBGL RENDERING PIPELINE. BUFFER OVERFLOW ON FRAME 1024. ATTEMPTING TO RE-ALLOCATE HEAP."
+  },
+  {
+    "id": "EXP-04",
+    "status": "STABLE",
+    "timestamp": "2025.09.21_14:22",
+    "description": "SUCCESSFUL DEPLOYMENT OF EDGE INFERENCE NODE. SUB-50MS LATENCY ACHIEVED FOR 8B PARAMETER MODEL."
+  },
+  {
+    "id": "SYS-99",
+    "status": "COMPILING",
+    "timestamp": "2025.08.11_02:15",
+    "description": "REBUILDING KERNEL MODULES FOR CUSTOM SENSOR SUITE INGESTION LOGIC. EXPECT DELAYS."
+  },
+  {
+    "id": "EXP-09",
+    "status": "FAULT",
+    "timestamp": "2025.07.03_11:45",
+    "description": "I2C BUS COLLISION DETECTED. SENSOR 2 THREW NACK. WAITING FOR TIMEOUT BEFORE RETRY."
+  },
+  {
+    "id": "SYS-12",
+    "status": "STABLE",
+    "timestamp": "2025.05.28_19:30",
+    "description": "NEW COMPONENT LIBRARY 'OBSIDIAN' PUBLISHED. BRUTALIST TOKENS MAPPED SUCCESSFULLY."
+  }
+]
